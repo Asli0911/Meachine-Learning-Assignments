@@ -4,4 +4,4 @@
 
 2) Logistic regression project on Advertising dataset.
 
-3) K nearest Neighbors regression on 
+3) K nearest Neighbors project.
