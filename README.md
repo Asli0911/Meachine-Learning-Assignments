@@ -5,3 +5,5 @@
 2) Logistic regression project on Advertising dataset.
 
 3) K nearest Neighbors project.
+
+4) Decision Trees and Random Forest project.
