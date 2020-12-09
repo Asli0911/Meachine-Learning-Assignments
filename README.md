@@ -9,3 +9,5 @@ In this Repository, you can find the below projects and their datasets.
 3) K nearest Neighbors project.
 
 4) Decision Trees and Random Forest project.
+
+5) Support Vector Machines project on iris dataset.
