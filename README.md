@@ -11,3 +11,5 @@ In this Repository, you can find the below projects and their datasets.
 4) Decision Trees and Random Forest project.
 
 5) Support Vector Machines project on iris dataset.
+
+6) K Means Clustering project on College_Date dataset.
